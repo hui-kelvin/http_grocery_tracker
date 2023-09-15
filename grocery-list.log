@@ -1,0 +1,55 @@
+2023-09-14T19:48:08.018Z [info]: Added item to grocery list: ${JSON.stringify(data)}
+2023-09-14T19:51:10.541Z [info]: Added item to grocery list: {"name":"Apples","quantity":3,"price":3.99,"bought":false}
+2023-09-14T19:51:21.122Z [info]: Edited item (ID 0) with {"name":"Apples","quantity":3,"price":3.99,"bought":true}
+2023-09-14T19:51:59.701Z [info]: Deleted item (ID 0): {"name":"Apples","quantity":3,"price":3.99,"bought":true}
+2023-09-14T19:52:26.806Z [warn]: Got an unsupported request GET /grocery-lis
+2023-09-14T19:52:43.520Z [warn]: Grocery item not found for edit (ID 3)
+2023-09-15T17:48:01.380Z [info]: Read grocery list: []
+2023-09-15T17:50:58.257Z [info]: Read grocery list: []
+2023-09-15T17:51:21.666Z [info]: Read grocery list: []
+2023-09-15T18:00:23.822Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:00:23.829Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T18:00:37.388Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:00:37.396Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T18:00:37.404Z [info]: Deleted item (ID: 0) {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:27:04.917Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:27:04.929Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T18:27:33.215Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:27:33.228Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T18:27:33.238Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:27:54.652Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:27:54.659Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T18:27:54.667Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:46:49.016Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:46:49.026Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T18:46:49.035Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:46:49.038Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:46:49.049Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:48:59.989Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:49:00.000Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T18:49:00.012Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:49:00.015Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:49:00.029Z [warn]: Got an unsupported request DELETE /grocery-list/add/apple
+2023-09-15T18:49:00.033Z [info]: Edited item (Name: apple) with {"quantity":3,"price":2.49}
+2023-09-15T18:49:00.042Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":3,"price":2.49,"bought":false}
+2023-09-15T18:51:31.326Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:51:31.333Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T18:51:31.342Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:51:31.345Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:51:31.349Z [warn]: Got an unsupported request DELETE /grocery-list/add/apple
+2023-09-15T18:51:31.351Z [info]: Edited item (Name: apple) with {"quantity":3,"price":2.49}
+2023-09-15T18:51:31.354Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":3,"price":2.49,"bought":false}
+2023-09-15T18:55:12.278Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:55:12.290Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T18:55:12.301Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:55:12.303Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T18:55:12.307Z [warn]: Got an unsupported request DELETE /grocery-list/add/apple
+2023-09-15T18:55:12.310Z [info]: Edited item (Name: apple) with {"quantity":3,"price":2.49}
+2023-09-15T18:55:12.314Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":3,"price":2.49,"bought":false}
+2023-09-15T19:00:23.298Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T19:00:23.312Z [info]: Read grocery list: [{"name":"apple","quantity":1,"price":2.99,"bought":false}]
+2023-09-15T19:00:23.321Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T19:00:23.324Z [info]: Added item to grocery list: {"name":"apple","quantity":1,"price":2.99,"bought":false}
+2023-09-15T19:00:23.327Z [warn]: Got an unsupported request DELETE /grocery-list/add/apple
+2023-09-15T19:00:23.330Z [info]: Edited item (Name: apple) with {"quantity":3,"price":2.49}
+2023-09-15T19:00:23.333Z [info]: Deleted item (Name: apple) {"name":"apple","quantity":3,"price":2.49,"bought":false}
